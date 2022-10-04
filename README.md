@@ -1,12 +1,10 @@
 # Sobre mim
 
-- 👋 Olá, eu sou @GiovanniChiarizzi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou @GiovanniChiarizzi.
+- 👀 Meu endereço de email é giovanni.chiarizzi@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprender a programar novas linguagens.
+-  Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
-<!---
-GiovanniChiarizzi/GiovanniChiarizzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
